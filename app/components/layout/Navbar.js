@@ -304,7 +304,7 @@ const Navbar = ({ isLoggedIn, setIsLoggedIn }) => {
                     </Flex>
                   </Drawer.Body>
                   <Drawer.Footer>
-                    <Image src="/images/LOGO.png" m="auto" />
+                    <Image src="/images/logo.png" m="auto" />
                   </Drawer.Footer>
                   <Drawer.CloseTrigger asChild>
                     <CloseButton size="sm" color="white" bg="transparent" />
