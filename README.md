@@ -4,6 +4,12 @@ A clean, responsive landing page built with **Next.js**, **Chakra UI**, and **Ta
 
 ---
 
+## Live Demo
+
+(https://goe-landing-page.vercel.app)
+
+---
+
 ## Getting Started
 
 ### 1. Clone the repository

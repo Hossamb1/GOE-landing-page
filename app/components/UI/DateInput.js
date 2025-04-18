@@ -156,7 +156,7 @@ const DateInput = ({ isLoggedIn }) => {
                 <Image
                   src={
                     isCurrentMonth
-                      ? "icons/chevron-left.svg"
+                      ? "icons/chevron_left.svg"
                       : "icons/chevron_left_white.svg"
                   }
                 />
